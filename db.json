@@ -1340,6 +1340,33 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "azul",
+      "hp": "123",
+      "sprites": {
+        "front": "front pic",
+        "back": "back pic"
+      },
+      "id": 151
+    },
+    {
+      "name": "cage",
+      "hp": "23",
+      "sprites": {
+        "front": "https://www.placecage.com/150/150",
+        "back": "https://www.placecage.com/200/200"
+      },
+      "id": 152
+    },
+    {
+      "name": "kyle",
+      "hp": "333",
+      "sprites": {
+        "front": "https://www.placecage.com/150/150",
+        "back": "https://www.placecage.com/200/200"
+      },
+      "id": 153
     }
   ]
 }
